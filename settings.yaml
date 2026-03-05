@@ -3,7 +3,8 @@ language: en-GB
 custom-domain:
   domain: jamesbaker.uk
 directives:
-  head-directive:
+  head-directive: |
+    
   footer-directive: |
     ---
 
