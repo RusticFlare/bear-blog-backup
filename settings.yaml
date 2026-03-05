@@ -1,0 +1,23 @@
+subdomain: jamesbaker
+language: en-GB
+custom-domain:
+  domain: jamesbaker.uk
+directives:
+  head-directive:
+  footer-directive: |
+    ---
+
+    [Get in touch](/contact/) or subscribe to a feed\
+    [All Posts](/feed/) | [`#images`](/feed/?q=images) | [`#words`](/feed/?q=words)
+
+    <script src="https://cdn.jsdelivr.net/gh/robertbirming/bear-plugins/gallery-lightbox.js"></script>
+advanced-settings:
+  collect-analytics: false
+  date-format: Y-m-d
+  fathom-site-id:
+  blog-path: blog
+  rss-alias:
+  custom-meta-tag:
+  robots-txt-content: |
+    User-agent: *
+    Disallow: /
