@@ -124,6 +124,10 @@ h1, h2, h3, h4, h5 {
   text-wrap-style: balance;
 }
 
+.not-found :is(h1, h2, h3, h4, h5) {
+  text-align: unset;
+}
+
 h1 { font-size: var(--size-step-4); }
 h2 { font-size: var(--size-step-3); }
 h3 { font-size: var(--size-step-2); }
