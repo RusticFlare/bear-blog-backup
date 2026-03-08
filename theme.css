@@ -41,6 +41,7 @@
   :root {
     --color-dark: #ffe5eb;
     --color-light: #101010;
+    --color-primary: #ff85a2;
     --color-code-background: rgba(0, 0, 0, 0.4);
     --color-card-background: #1c1619;
     --color-card-border: #6a3a4c;
