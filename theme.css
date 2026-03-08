@@ -7,13 +7,13 @@
 
 :root {
   /* Colors */
-  --color-dark: #ffe5eb;
-  --color-light: #101010;
-  --color-primary: #ff85a2;
-  --color-code-background: #000;
-  --color-card-background: #1c1619;
-  --color-card-border: #6a3a4c;
-  --color-external-arrow: #8a8a8a;
+  --color-dark: #101010;
+  --color-light: #fff6f9;
+  --color-primary: #ff7193;
+  --color-code-background: rgba(0, 0, 0, 0.1);
+  --color-card-background: #fff9fa;
+  --color-card-border: #ff85a2;
+  --color-external-arrow: #9a9a9a;
 
   /* Typography scale */
   --size-step-0: clamp(1.05rem, 1.5vw, 1.15rem);
@@ -35,6 +35,17 @@
   --font-stack-body: "Ubuntu Sans", sans-serif;
   
   --font-stack-mono: "Ubuntu Sans Mono", monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-dark: #ffe5eb;
+    --color-light: #101010;
+    --color-code-background: rgba(0, 0, 0, 0.4);
+    --color-card-background: #1c1619;
+    --color-card-border: #6a3a4c;
+    --color-external-arrow: #8a8a8a;
+  }
 }
 
 /* --------------------------------------------------
@@ -349,8 +360,8 @@ ol li {
 ul.embedded.blog-posts li {
   display: block;
   box-shadow:
-    0 1px 2px rgba(255, 255, 255, 0.04),
-    0 8px 24px rgba(0, 0, 0, 0.6);
+    0 1px 2px rgba(0, 0, 0, 0.06),
+    0 8px 24px rgba(0, 0, 0, 0.08);
   margin: auto;
   padding: calc(var(--spacing) / 2);
   background-color: var(--color-card-background);
@@ -359,6 +370,14 @@ ul.embedded.blog-posts li {
   border-style: solid;
   border-width: thin;
   font-size: var(--size-step-0);
+}
+
+@media (prefers-color-scheme: dark) {
+  ul.embedded.blog-posts li {
+    box-shadow:
+      0 1px 2px rgba(255, 255, 255, 0.04),
+      0 8px 24px rgba(0, 0, 0, 0.6);
+  }
 }
 
 ul.embedded.blog-posts li:not(:last-child) { 
@@ -508,8 +527,8 @@ ul.embedded.blog-posts p {
 
 .card {
   box-shadow:
-    0 1px 2px rgba(255, 255, 255, 0.04),
-    0 8px 24px rgba(0, 0, 0, 0.6);
+    0 1px 2px rgba(0, 0, 0, 0.06),
+    0 8px 24px rgba(0, 0, 0, 0.08);
   padding: calc(var(--spacing) / 2);
   background-color: var(--color-card-background);
   border-radius: calc(var(--spacing) / 2);
@@ -518,6 +537,14 @@ ul.embedded.blog-posts p {
   border-width: thin;
   text-align: center;
   margin: 1em 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .card {
+    box-shadow:
+      0 1px 2px rgba(255, 255, 255, 0.04),
+      0 8px 24px rgba(0, 0, 0, 0.6);
+  }
 }
 
 .card :is(h1, h2, h3, h4, h5, h6) {
