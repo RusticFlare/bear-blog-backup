@@ -18,7 +18,7 @@
   /* Typography scale */
   --size-step-0: clamp(1.05rem, 1.5vw, 1.15rem);
   --size-step-1: clamp(1.0rem, 1.25vw, 1.7rem);
-  --size-step-2: clamp(1.2rem, 1.75vw, 2.1rem);
+  --size-step-2: clamp(1.1rem, 1.75vw, 2.1rem);
   --size-step-3: clamp(1.4rem, 2.25vw, 2.5rem);
   --size-step-4: clamp(1.8rem, 3.25vw, 3.1rem);
   --size-step-5: clamp(1.6rem, 2.75vw, 2.9rem);
@@ -281,7 +281,7 @@ ul.blog-posts {
   padding: 0;
 }
 
-ul.blog-posts li a {
+ul.blog-posts li > a {
   font-family: var(--font-stack-headings);
   text-transform: uppercase;
   font-size: var(--size-step-2);
@@ -427,7 +427,7 @@ ul.embedded.blog-posts p {
 -------------------------------------------------- */
 
 .words .embedded.blog-posts time {
-    float: right;
+  float: right;
 }
 
 /* --------------------------------------------------
@@ -613,20 +613,21 @@ div.card > :last-child {
    Upvote
 -------------------------------------------------- */
 
-.upvote-count {
+#upvote-form .upvote-button svg,
+#upvote-form .upvote-button .upvote-count {
   display: none;
 }
 
-.upvote-button > svg {
-  display: none;
-}
-
-.upvote-button:after {
+#upvote-form .upvote-button:after {
   color: var(--color-primary) !important;
   content: '♡';
 }
 
-.upvote-button:disabled::after {
+#upvote-form .upvote-button[disabled] {
+  cursor: default;
+}
+
+#upvote-form .upvote-button:disabled::after {
   content: '♥';
 }
 
@@ -668,4 +669,10 @@ a[target = "_blank"]::after {
 /* No "New Tab" Arrow for images */
 a[target = "_blank"]:has(img)::after {
   content: none;
+}
+/* --------------------------------------------------
+   Image Link
+-------------------------------------------------- */
+.image-link {
+  display: inline-block;
 }
