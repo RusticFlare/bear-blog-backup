@@ -11,7 +11,7 @@ class_name: garden
 
 # {{ post_title }}
 
-A page of links to other pages.
+_<q>A blog is a garden, forever a work in progress.</q>_ – [eternal constellations](tab:https://eternalconstellations.bearblog.dev/a-blog-is-a-garden/)
 
 <dl>
 
