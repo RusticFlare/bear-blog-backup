@@ -8,7 +8,15 @@ make_discoverable: false
 is_page: false
 ---
 
-<img
-  src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/bear-james-baker.png"
-  alt="Pixel bear"
-  style="width: -webkit-fill-available; image-rendering: pixelated;" />
+<picture>
+  <!-- User prefers light mode: -->
+  <source srcset="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/bear-james-baker-light.png"
+  media="(prefers-color-scheme: light)"/>
+  <!-- User prefers dark mode: -->
+  <source srcset="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/bear-james-baker.png" 
+    media="(prefers-color-scheme: dark)">
+  <!-- User has no color preference: -->
+  <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/bear-james-baker-light.png"
+    alt="Pixel bear"
+    style="width: -webkit-fill-available; image-rendering: pixelated;">
+</picture>

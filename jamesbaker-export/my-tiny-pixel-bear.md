@@ -12,15 +12,23 @@ meta_description: I made a tiny pixel bear using a template by Sylvia (A parenth
 I made a tiny pixel bear using a template by [Sylvia (A parenthetical departure)](tab:https://departure.blog/pixel-bears/).
 
 <div class="card">
-
-<img
-  src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/bear-james-baker.png"
-  alt="Pixel bear"
-  style="width: 192px; image-rendering: pixelated;" />
-
+<picture>
+  <!-- User prefers light mode: -->
+  <source srcset="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/bear-james-baker-light.png"
+  media="(prefers-color-scheme: light)"/>
+  <!-- User prefers dark mode: -->
+  <source srcset="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/bear-james-baker.png" 
+    media="(prefers-color-scheme: dark)">
+  <!-- User has no color preference: -->
+  <img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/bear-james-baker-light.png"
+    alt="Pixel bear"
+    style="width: 192px; image-rendering: pixelated;">
+</picture>
 </div>
 
-This was my first time doing pixel art. I’m pretty happy with how it turned out. It’s now proudly on my homepage. 
+This was my first time doing pixel art. I’m pretty happy with how it turned out. It’s now proudly on my homepage.
+
+**Update:** It's moved to my footer.
 
 ---
 

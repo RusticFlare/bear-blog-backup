@@ -10,8 +10,8 @@ meta_description: Why I’ve won every marathon I’ve ever run.
 meta_image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/og-image-vacuous-truth.webp
 ---
 
-> <q>I’ve won every marathon I’ve taken part in.</q>\
-> _– Me (January 2026)_
+> _<q>I’ve won every marathon I’ve taken part in.</q>_\
+> – Me (January 2026)
 
 I’m not lying. This statement is completely true… The only issue is that I’ve never run a marathon in my life.
 
@@ -31,7 +31,8 @@ $$
 
 <div class="card">
 
-An **identity element** for an operation is a value that is effectively ignored when applied. For _plus_ ($+$), the identity element is $0$: 
+An **identity element** for an operation is a value that is effectively ignored when applied. For _plus_ ($+$), the identity element is $0$.
+
 $$
 x + 0 = x
 $$
