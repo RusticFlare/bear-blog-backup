@@ -9,11 +9,11 @@ meta_image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/2026-
 
 Welcome to my _**Digital Realm**_. Feel free to have a gander. It’s why I made it.
 
-## Gubbins About Me
+## Gubbins
 
 I’m a Yorkshireman in York. I wear pink so often – people comment on it when I don’t. Heavy metal and running are my therapists. Fiction and the outdoors are my happy places. Photography and art are my outlets.
 
-## Snaps I Took
+## Snaps
 
 ![Jess in Beningbrough Hall](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/f42eb1d8-301d-4101-943b-d76040c5e539_1_105_c.webp)
 
@@ -23,6 +23,6 @@ I’m a Yorkshireman in York. I wear pink so often – people comment on it when
 
 ![Minions](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/000088670035.webp)
 
-![DSCF9492](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/dscf9492.webp)
+![Frank Carter](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/dscf9492.webp)
 
-![DF2E4124-EA7F-4277-BE49-4A95927E9E23_1_102_a](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/df2e4124-ea7f-4277-be49-4a95927e9e23_1_102_a.webp)
+![Arcade punch](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/df2e4124-ea7f-4277-be49-4a95927e9e23_1_102_a.webp)
