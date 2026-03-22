@@ -26,4 +26,4 @@ In my free time I’m focusing on finishing <cite>[The Stormlight Archive](tab:h
 - Taking photographs on my new [Fujifilm X100VI](tab:https://www.fujifilm-x.com/en-gb/products/cameras/x100vi/)
 - Reading
   - <cite>[Wind and Truth](tab:https://www.brandonsanderson.com/pages/the-stormlight-archive-series)</cite> – Brandon Sanderson
-- Listening through Metal Hammer's to 50 albums of 2025
+- Listening through Metal Hammer's top 50 albums of 2025
