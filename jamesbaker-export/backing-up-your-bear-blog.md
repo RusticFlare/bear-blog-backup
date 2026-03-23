@@ -1,12 +1,12 @@
 ---
 title: 💾 Backing Up Your Bear Blog
 slug: backing-up-your-bear-blog
-published_date: 2026-03-05T20:47:10.690083+00:00
+published_date: 2026-03-05T20:47:00+00:00
 tags: words
 publish: true
 make_discoverable: true
 is_page: false
-meta_description: How to back up your Bear Blog on GitHub
+meta_description: How to back up your Bear Blog on GitHub.
 ---
 
 I recently noticed in the [Bear Blog Changelog](tab:https://docs.bearblog.dev/changelog/) that you can export your posts and pages as Markdown files.
