@@ -1,12 +1,12 @@
 ---
 title: 📸 I Quit Editing Photos
 slug: i-quit-editing-photos
-published_date: 2026-03-18T19:00:32.890373+00:00
+published_date: 2026-03-18T19:00:00+00:00
 tags: words
 publish: true
 make_discoverable: true
 is_page: false
-meta_description: Editing photos as I press the shutter
+meta_description: Editing photos as I press the shutter.
 ---
 
 After years of editing photos in Adobe Lightroom, I finally cancelled my subscription. Now I’ve completely changed what happens after I press the shutter.
