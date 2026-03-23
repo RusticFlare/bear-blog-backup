@@ -42,7 +42,7 @@
     --color-dark: #ffe5eb;
     --color-light: #101010;
     --color-primary: #ff85a2;
-    --color-code-background: rgba(0, 0, 0, 0.4);
+    --color-code-background: #000;
     --color-card-background: #1c1619;
     --color-card-border: #6a3a4c;
     --color-external-arrow: #8a8a8a;
@@ -70,7 +70,7 @@ body {
   color: var(--color-dark);
   font-family: var(--font-stack-body);
   font-size: var(--size-step-0);
-  line-height: 1.25;
+  line-height: 1.35;
   padding: var(--spacing);
 }
 
