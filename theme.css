@@ -133,7 +133,6 @@ h1, h2, h3, h4, h5 {
   margin-top: var(--spacing);
   margin-bottom: calc(var(--spacing) / 2);
   text-align: left;
-  text-wrap-style: balance;
 }
 
 .not-found :is(h1, h2, h3, h4, h5) {
