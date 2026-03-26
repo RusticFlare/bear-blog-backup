@@ -25,6 +25,10 @@ I’m having fun making images with my camera – not my laptop.
 
 ---
 
+_**Edit:** Discussion on [Hacker News](tab:https://news.ycombinator.com/item?id=47459625)._
+
+---
+
 #### As of writing this...
 
 I'm sat in a pub watching football. Hoping Newcastle United or Liverpool make it to the Champions League quarter-finals. Spurs have no chance. 

@@ -18,19 +18,10 @@ _<q>A blog is a garden, forever a work in progress.</q>_ – [eternal constellat
 <div class="card">
 <dt>
 
-[🌸 jamesandjess.uk](tab:https://jamesandjess.uk/)
-
-</dt>
-<dd>The site I share with my girlfriend.</dd>
-</div>
-
-<div class="card">
-<dt>
-
 [🎸 Gigs I’ve Been To](/gigs-ive-been-to/)
 
 </dt>
-<dd>Artists I’ve seen live.</dd>
+<dd>I was probably in the mosh pit.</dd>
 </div>
 
 </dl>
