@@ -5,7 +5,7 @@ published_date: 2026-01-17T23:01:00+00:00
 publish: true
 make_discoverable: false
 is_page: true
-meta_description: Artists I’ve seen live.
+meta_description: I was probably in the mosh pit.
 ---
 
 # {{ post_title }}
