@@ -436,7 +436,7 @@ ul.embedded.blog-posts p {
   float: right;
 }
 
-.words ul.embedded.blog-posts p {
+.words ul.embedded.blog-posts > li > p {
   margin-left: var(--spacing); 
 }
 
