@@ -400,26 +400,32 @@ ul.embedded.blog-posts li a {
 ul.embedded.blog-posts p {
   margin-top: 0;
   font-family: var(--font-stack-body);
-  margin-left: var(--spacing); 
 }
 
 /* --------------------------------------------------
    Images
 -------------------------------------------------- */
 
-.images ul.embedded.blog-posts li a {
+.images ul.embedded.blog-posts li > a {
   display: none;
 }
 
 .images ul.embedded.blog-posts li {
   display: flex;
   flex-direction: column-reverse;
-  text-align: right;
   gap: calc(var(--spacing) / 2);
 }
 
-.images ul.embedded.blog-posts p {
-  display: contents;
+.images ul.embedded.blog-posts > li > div > :first-child {
+    margin-top: 0;
+}
+
+.images ul.embedded.blog-posts > li > div > :last-child {
+    margin-bottom: 0;
+}
+
+.images ul.embedded.blog-posts span {
+    align-self: flex-end;
 }
 
 /* --------------------------------------------------
@@ -428,6 +434,10 @@ ul.embedded.blog-posts p {
 
 .words .embedded.blog-posts time {
   float: right;
+}
+
+.words ul.embedded.blog-posts p {
+  margin-left: var(--spacing); 
 }
 
 /* --------------------------------------------------
