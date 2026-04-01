@@ -15,13 +15,7 @@ _<q>A blog is a garden, forever a work in progress.</q>_ – [eternal constellat
 
 
 <ul class="blog-posts">
-
-<li>
-
-[🎸 Gigs I’ve Been To](/gigs-ive-been-to/)
-
-</li>
-
+<li><a href="/gigs-ive-been-to/">🎸 Gigs I’ve Been To</a></li>
 </ul>
 
 
