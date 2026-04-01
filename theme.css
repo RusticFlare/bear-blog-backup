@@ -101,9 +101,12 @@ header {
   margin-bottom: var(--spacing);
 }
 
-@media (min-width: 610px) {
+@media (min-width: 600px) {
   header {
     flex-direction: row;
+  }
+  
+  nav > p {
     gap: var(--spacing);
   }
 }
@@ -129,7 +132,6 @@ h1, h2, h3, h4, h5 {
   font-family: var(--font-stack-headings);
   text-transform: uppercase;
   font-weight: 100;
-  line-height: 1;
   margin-top: var(--spacing);
   margin-bottom: calc(var(--spacing) / 2);
   text-align: left;
@@ -266,10 +268,10 @@ hr {
   color: var(--color-dark);
 }
 
-nav p {
+nav > p {
   display: flex;
   flex-wrap: wrap;
-  gap: calc(var(--spacing) * 0.75);
+  gap: calc(var(--spacing) * 0.5);
   row-gap: 0;
   margin: 0;
   font-size: var(--size-step-5);
