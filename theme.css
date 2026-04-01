@@ -283,7 +283,7 @@ ul.blog-posts {
   padding: 0;
 }
 
-ul.blog-posts li > a {
+ul.blog-posts > li > a {
   font-family: var(--font-stack-headings);
   text-transform: uppercase;
   font-size: var(--size-step-2);
@@ -297,7 +297,7 @@ ul.blog-posts li > a {
   }
 }
 
-ul.blog-posts li span {
+ul.blog-posts > li > span {
   min-width: 11ch;
 }
 
@@ -316,10 +316,6 @@ button {
   text-transform: uppercase;
   font-size: var(--size-step-0);
   cursor: pointer;
-}
-
-dd {
-  margin-left: var(--spacing); 
 }
 
 /* --------------------------------------------------
@@ -355,18 +351,18 @@ dd {
    Variants
 -------------------------------------------------- */
 
-ul li,
-ol li {
+ul > li,
+ol > li {
   --flow-space: 0.3em;
 }
 
-ul.embedded.blog-posts li {
+ul.blog-posts > li {
   display: block;
   box-shadow:
     0 1px 2px rgba(0, 0, 0, 0.06),
     0 8px 24px rgba(0, 0, 0, 0.08);
   margin: auto;
-  padding: calc(var(--spacing) / 2);
+  padding: calc(var(--spacing) / 4) calc(var(--spacing) / 2);
   background-color: var(--color-card-background);
   border-radius: calc(var(--spacing) / 2);
   border-color: var(--color-card-border);
@@ -376,32 +372,27 @@ ul.embedded.blog-posts li {
 }
 
 @media (prefers-color-scheme: dark) {
-  ul.embedded.blog-posts li {
+  ul.blog-posts > li {
     box-shadow:
       0 1px 2px rgba(255, 255, 255, 0.04),
       0 8px 24px rgba(0, 0, 0, 0.6);
   }
 }
 
-ul.embedded.blog-posts li:not(:last-child) { 
+ul.blog-posts > li:not(:last-child) { 
    margin-bottom: calc(var(--spacing) / 2); 
 }
 
-ul.embedded.blog-posts li > :first-child { 
+ul.blog-posts > li > :first-child { 
    margin-top: 0; 
 }
 
-ul.embedded.blog-posts li > :last-child { 
+ul.blog-posts > li > :last-child { 
    margin-bottom: 0; 
 }
 
-ul.embedded.blog-posts li a {
+ul.blog-posts > li > a {
   display: block;
-}
-
-ul.embedded.blog-posts p {
-  margin-top: 0;
-  font-family: var(--font-stack-body);
 }
 
 /* --------------------------------------------------
@@ -412,7 +403,8 @@ ul.embedded.blog-posts p {
   display: none;
 }
 
-.images ul.embedded.blog-posts li {
+.images ul.embedded.blog-posts > li {
+  padding: calc(var(--spacing) / 2) calc(var(--spacing) / 2) calc(var(--spacing) / 4);
   display: flex;
   flex-direction: column-reverse;
   gap: calc(var(--spacing) / 2);
@@ -428,18 +420,6 @@ ul.embedded.blog-posts p {
 
 .images ul.embedded.blog-posts span {
     align-self: flex-end;
-}
-
-/* --------------------------------------------------
-   Words
--------------------------------------------------- */
-
-.words .embedded.blog-posts time {
-  float: right;
-}
-
-.words ul.embedded.blog-posts > li > p {
-  margin-left: var(--spacing); 
 }
 
 /* --------------------------------------------------
@@ -570,43 +550,6 @@ div.card > :first-child {
 
 div.card > :last-child { 
    margin-bottom: 0; 
-}
-
-/* --------------------------------------------------
-   Frame
--------------------------------------------------- */
-
-.frame img {
-  border-radius: 100%;
-  border-color: var(--color-card-border);
-  border-style: solid;
-  border-width: thin;
-  transition: none;
-  padding: calc(var(--spacing) / 2);
-}
-
-/* --------------------------------------------------
-   Garden
--------------------------------------------------- */
-
-.garden .card {
-  text-align: justify;
-}
-
-.garden .card dt {
-  font-family: var(--font-stack-headings);
-  text-transform: uppercase;
-  font-size: var(--size-step-2);
-  text-align: left;
-}
-
-.garden .card dt > p {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.garden div.card:not(:last-child) { 
-   margin-bottom: calc(var(--spacing) / 2); 
 }
 
 /* --------------------------------------------------
