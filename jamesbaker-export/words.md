@@ -13,4 +13,4 @@ class_name: words
 
 Whatever I’ve felt like writing.
 
-{{ posts|description:True|tag:words }}
+{{ posts|tag:words }}
