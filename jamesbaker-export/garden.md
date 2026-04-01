@@ -13,17 +13,16 @@ class_name: garden
 
 _<q>A blog is a garden, forever a work in progress.</q>_ – [eternal constellations](tab:https://eternalconstellations.bearblog.dev/a-blog-is-a-garden/)
 
-<dl>
 
-<div class="card">
-<dt>
+<ul class="blog-posts">
+
+<li>
 
 [🎸 Gigs I’ve Been To](/gigs-ive-been-to/)
 
-</dt>
-<dd>I was probably in the mosh pit.</dd>
-</div>
+</li>
 
-</dl>
+</ul>
+
 
 
