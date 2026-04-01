@@ -407,7 +407,7 @@ ul.blog-posts > li > a {
   padding: calc(var(--spacing) / 2) calc(var(--spacing) / 2) calc(var(--spacing) / 4);
   display: flex;
   flex-direction: column-reverse;
-  gap: calc(var(--spacing) / 2);
+  gap: calc(var(--spacing) / 4);
 }
 
 .images ul.embedded.blog-posts > li > div > :first-child {
@@ -551,6 +551,7 @@ div.card > :first-child {
 div.card > :last-child { 
    margin-bottom: 0; 
 }
+
 
 /* --------------------------------------------------
    Upvote
