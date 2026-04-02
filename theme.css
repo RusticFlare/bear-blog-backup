@@ -612,9 +612,11 @@ a[target = "_blank"]::after {
 a[target = "_blank"]:has(img)::after {
   content: none;
 }
+
 /* --------------------------------------------------
    Image Link
 -------------------------------------------------- */
+
 .image-link {
   display: inline-block;
 }
