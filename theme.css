@@ -271,7 +271,6 @@ hr {
 nav > p {
   display: flex;
   flex-wrap: wrap;
-  gap: calc(var(--spacing) * 0.5);
   row-gap: 0;
   margin: 0;
   font-size: var(--size-step-5);
