@@ -7,7 +7,7 @@
 
 :root {
   /* Colors */
-  --color-dark: #101010;
+  --color-dark: #170D0F;
   --color-light: #fff6f9;
   --color-primary: #CC386C;
   --color-code-background: rgba(0, 0, 0, 0.1);
@@ -16,7 +16,7 @@
   --color-external-arrow: #9a9a9a;
 
   /* Typography scale */
-  --size-step-0: clamp(1.1rem, 1.5vw, 1.35rem);
+  --size-step-0: clamp(1.1rem, 1.5vw, 1.2rem);
   --size-step-1: clamp(1.0rem, 1.25vw, 1.7rem);
   --size-step-2: clamp(1.1rem, 1.75vw, 2.1rem);
   --size-step-3: clamp(1.4rem, 2.25vw, 2.5rem);
@@ -40,7 +40,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --color-dark: #ffe5eb;
-    --color-light: #101010;
+    --color-light: #170D0F;
     --color-primary: #ff85a2;
     --color-code-background: #000;
     --color-card-background: #1c1619;
