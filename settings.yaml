@@ -6,6 +6,7 @@ directives:
   head-directive: |
     
   footer-directive: |
+    <p>
     <a class="image-link" href="https://departure.blog/pixel-bears/" target="_blank">
     <picture>
       <!-- User prefers light mode: -->
@@ -20,6 +21,7 @@ directives:
         style="width: 96px; image-rendering: pixelated;">
     </picture>
     </a>
+    </p>
     
     [Get in touch](/contact/) | [Follow a feed](/feeds/)
     
