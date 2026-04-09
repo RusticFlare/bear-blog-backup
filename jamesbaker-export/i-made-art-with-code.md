@@ -1,7 +1,7 @@
 ---
 title: 🤓 I Made Art With Code
 slug: i-made-art-with-code
-published_date: 2026-03-23T20:06:43.260939+00:00
+published_date: 2026-03-23T20:06:00+00:00
 tags: words
 publish: true
 make_discoverable: true
@@ -147,6 +147,6 @@ Oh yeah… and I’ve already done a sixty-fifth!
 
 ---
 
-#### As of writing this...
+#### As of writing this…
 
 I need an early night. I didn't get enough sleep over the weekend and I've just run the four miles home from work with a rucksack on.

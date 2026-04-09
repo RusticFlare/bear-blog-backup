@@ -1,7 +1,7 @@
 ---
 title: 🕶️ I Don’t Know You’re Here
 slug: i-dont-know-youre-here
-published_date: 2026-03-24T18:53:37.148356+00:00
+published_date: 2026-03-24T18:53:00+00:00
 tags: words
 publish: true
 make_discoverable: true
@@ -45,7 +45,7 @@ If you really want to make your presence known, [get in touch](/contact/).
 
 ---
 
-#### As of writing this...
+#### As of writing this…
 
 5-a-side was cancelled, so I'm having a chill evening at home.
 

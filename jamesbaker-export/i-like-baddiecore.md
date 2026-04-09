@@ -22,6 +22,6 @@ I guess I’m into Baddiecore.
 
 ---
 
-#### As of writing this...
+#### As of writing this…
 
 In a Caffè Nero on a quiet Sunday.

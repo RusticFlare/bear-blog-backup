@@ -24,6 +24,6 @@ Secondly, one of the key reasons I have my own website is to own the content. By
 
 ---
 
-#### As of writing this...
+#### As of writing this…
 
 Chilling at home. Jess is playing [Hillary Duff’s new album](tab:https://album.link/s/71t4M602DGtkhsy1RtNAME). 

@@ -35,6 +35,6 @@ I took the camera to a [Marmozets](tab:https://marmozets.band/) gig. Because it�
 
 ---
 
-#### As of writing this...
+#### As of writing this…
 
 I’m listening to the new releases from [Beartooth](tab:https://song.link/s/3oOhSGUZSmV6XsANXjaEDj), [The Wise Man’s Fear](tab:https://song.link/s/3FITJmCSQ1DUWt4wLatnQB) and [Broadside](tab:https://song.link/s/4s4YF38C0Iahg46pvaJK7G).

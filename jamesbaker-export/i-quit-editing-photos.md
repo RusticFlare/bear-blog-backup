@@ -31,6 +31,6 @@ _**Edit 2:** [⚙️ My Fujifilm X100VI Setup](/my-fujifilm-x100vi-setup/)._
 
 ---
 
-#### As of writing this...
+#### As of writing this…
 
 I'm sat in a pub watching football. Hoping Newcastle United or Liverpool make it to the Champions League quarter-finals. Spurs have no chance. 

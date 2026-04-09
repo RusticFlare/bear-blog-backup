@@ -32,7 +32,7 @@ This was my first time doing pixel art. I’m pretty happy with how it turned ou
 
 ---
 
-#### As of writing this...
+#### As of writing this…
 
 I’ve been updating the CSS of this site. Nothing crazy, just new colours and fonts.
 

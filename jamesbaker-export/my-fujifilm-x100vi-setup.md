@@ -96,6 +96,6 @@ Turn the flash on and off.
 
 ---
 
-#### As of writing this...
+#### As of writing this…
 
 I wrote most of this in a café in Wetherby. Finished it off at home watching the World Cup play-off semi-finals.
