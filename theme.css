@@ -586,9 +586,8 @@ div.card > :last-child {
   text-transform: initial;
 }
 
-.post p.tags {
-  float: right;
-  margin: 0;
+.post .tags {
+  display: none;
 }
 
 /* --------------------------------------------------
