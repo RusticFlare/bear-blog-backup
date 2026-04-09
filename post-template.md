@@ -1,10 +1,9 @@
 title:
-meta_description:
 meta_image:
 make_discoverable:
-tags:
+tags: images, words
 ___
 
 ---
 
-#### As of writing this...
+#### As of writing this…
