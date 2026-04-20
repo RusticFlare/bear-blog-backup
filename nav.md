@@ -1,1 +1,1 @@
-[Now](/now/) [Images](/images/) [Words](/words/) [Garden](/garden/)
+[Words](/words/) [Images](/images/) [Garden](/garden/)
