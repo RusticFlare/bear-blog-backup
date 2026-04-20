@@ -72,8 +72,10 @@ meta_description: I was probably in the mosh pit.
 * Paramore
 * Parkway Drive
 * :PM
+* PRESIDENT
 * Queens of the Stone Age
 * Rise to Remain
+* Rosie
 * Scene Queen
 * SikTh
 * Slash
