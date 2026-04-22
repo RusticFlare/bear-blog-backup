@@ -12,8 +12,8 @@ meta_description: How to follow my blog
 
 You can subscribe to my posts by following one of these feeds:
 - [All posts](/feed/)
-- [Just `#images`](/feed/?q=images)
-- [Just `#words`](/feed/?q=words)
+- [Just images](/feed/?q=images)
+- [Just words](/feed/?q=words)
 
 Copy the link for the feed you want to follow, then add it in your **feed reader**.
 

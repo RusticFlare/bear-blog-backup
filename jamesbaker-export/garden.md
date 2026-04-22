@@ -13,10 +13,17 @@ class_name: garden
 
 _<q>A blog is a garden, forever a work in progress.</q>_ – [eternal constellations](tab:https://eternalconstellations.bearblog.dev/a-blog-is-a-garden/)
 
+## Galleries
+
 <ul class="blog-posts">
 <li><a href="/photos/">📸 Photos</a></li>
 <li><a href="/digital-art/">🤖 Digital Art</a></li>
 <li><a href="/creative-coding/">🧑‍💻 Creative Coding</a></li>
 <li><a href="/collages/">✂️ Collages</a></li>
+</ul>
+
+## Pages
+
+<ul class="blog-posts">
 <li><a href="/gigs-ive-been-to/">🎸 Gigs I’ve Been To</a></li>
 </ul>

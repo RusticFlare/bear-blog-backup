@@ -11,6 +11,6 @@ class_name: images
 
 # {{ post_title }}
 
-I take photos, make images with code and create collages.
+A [feed](/feeds/) where I share art and photos.
 
 {{ posts|content:True|tag:images }}
