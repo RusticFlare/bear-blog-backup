@@ -11,6 +11,6 @@ class_name: words
 
 # {{ post_title }}
 
-Whatever I’ve felt like writing.
+A [feed](/feeds/) of whatever I’ve felt like writing.
 
 {{ posts|tag:words }}
