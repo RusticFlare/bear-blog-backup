@@ -1,5 +1,5 @@
 /* Font */
-@import url('https://fonts.googleapis.com/css2?family=Amarante&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap');
+@import url('https://fonts.bunny.net/css?family=Amarante&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap');
 
 /* --------------------------------------------------
    Design Tokens
@@ -621,4 +621,45 @@ a[target = "_blank"]:has(img)::after {
 
 .image-link {
   display: inline-block;
+}
+
+/* --------------------------------------------------
+   Figure
+-------------------------------------------------- */
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  text-align: center;
+}
+
+/* --------------------------------------------------
+   Table
+-------------------------------------------------- */
+
+table {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+}
+
+/* --------------------------------------------------
+   sup/sub
+-------------------------------------------------- */
+
+sup, sub
+{
+    height: 0;
+    line-height: 1;
+    vertical-align: baseline;
+    position: relative;
+}
+
+sup { 
+  bottom: 1ex; 
+}
+
+sub { 
+  top: .5ex; 
 }
