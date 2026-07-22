@@ -35,6 +35,7 @@ meta_description: I was probably in the mosh pit.
 * Coheed and Cambria
 * Comeback Kid
 * Creeper
+* Crossfaith
 * Danko Jones
 * Dayseeker
 * Delilah Bon
@@ -78,6 +79,7 @@ meta_description: I was probably in the mosh pit.
 * Rosie
 * Scene Queen
 * SikTh
+* Skindred
 * Slash
 * Sleep Token
 * Soulfly
