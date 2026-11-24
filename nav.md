@@ -1,1 +1,1 @@
-[Words](/words/) [Images](/images/) [Garden](/garden/)
+[Home](/) [Blog](/blog/) [Galleries](/galleries/) [Pages](/pages/)
