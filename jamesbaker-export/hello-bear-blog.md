@@ -2,12 +2,10 @@
 title: 🐻 Hello Bear Blog
 slug: hello-bear-blog
 published_date: 2026-01-20T21:51:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: Migrating from Jekyll and GitHub Pages to Bear Blog.
-lang: en-GB
 ---
 
 I recently migrated my blog from a [Jekyll](tab:https://jekyllrb.com/) blog hosted on [GitHub Pages](tab:https://docs.github.com/en/pages) to [Bear Blog](tab:https://bearblog.dev/). _Why?_

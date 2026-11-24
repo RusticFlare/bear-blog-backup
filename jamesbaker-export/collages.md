@@ -3,7 +3,7 @@ title: ✂️ Collages
 slug: collages
 published_date: 2026-04-09T16:52:00+00:00
 publish: true
-make_discoverable: false
+discoverable: false
 is_page: true
 ---
 

@@ -2,9 +2,8 @@
 title: 📸 I Quit Editing Photos
 slug: i-quit-editing-photos
 published_date: 2026-03-18T19:00:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: Editing photos as I press the shutter.
 ---

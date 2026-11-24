@@ -2,9 +2,8 @@
 title: 📒 *The Americans* by Robert Frank: The Perfect Photobook for the USA’s 250th Birthday
 slug: the-americans-by-robert-frank-the-perfect-photobook-for-the-usas-250th-birthday
 published_date: 2026-07-04T13:34:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 ---
 

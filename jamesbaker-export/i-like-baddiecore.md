@@ -2,9 +2,8 @@
 title: 🦹 I Like Baddiecore
 slug: i-like-baddiecore
 published_date: 2026-03-08T12:56:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: Apparently, a lot of what I listen to is called “Baddiecore”.
 ---

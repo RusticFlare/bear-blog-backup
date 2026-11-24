@@ -1,10 +1,9 @@
 ---
 title: 🧳 Tourism and Photography
 slug: tourism-and-photography
-published_date: 2026-06-03T17:24:50.687766+00:00
-tags: words
+published_date: 2026-06-03T17:24:00+00:00
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 ---
 

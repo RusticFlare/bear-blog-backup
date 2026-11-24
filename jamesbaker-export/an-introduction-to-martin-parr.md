@@ -2,9 +2,8 @@
 title: 📸 An Introduction to Martin Parr
 slug: an-introduction-to-martin-parr
 published_date: 2026-06-06T14:11:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 ---
 

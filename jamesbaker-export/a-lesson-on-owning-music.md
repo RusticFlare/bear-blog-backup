@@ -2,9 +2,8 @@
 title: 💿 A Lesson On Owning Music
 slug: a-lesson-on-owning-music
 published_date: 2026-04-03T19:55:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 ---
 

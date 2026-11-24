@@ -3,7 +3,7 @@ title: 🎸 Gigs I’ve Been To
 slug: gigs-ive-been-to
 published_date: 2026-01-17T23:01:00+00:00
 publish: true
-make_discoverable: false
+discoverable: false
 is_page: true
 meta_description: I was probably in the mosh pit.
 ---
@@ -17,6 +17,7 @@ meta_description: I was probably in the mosh pit.
 * A.A. Williams
 * Arctic Monkeys
 * Asking Alexandria
+* ATKRTV
 * Beartooth
 * Bilmuri
 * Billy Talent

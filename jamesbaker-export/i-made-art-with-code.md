@@ -2,9 +2,8 @@
 title: 🤓 I Made Art With Code
 slug: i-made-art-with-code
 published_date: 2026-03-23T20:06:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: Making an image with code (almost) every day for sixty-four days.
 ---

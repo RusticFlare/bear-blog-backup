@@ -2,9 +2,8 @@
 title: 🏃 parkrun Is Awesome
 slug: parkrun-is-awesome
 published_date: 2026-06-26T19:19:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 ---
 

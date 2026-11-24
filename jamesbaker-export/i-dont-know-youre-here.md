@@ -2,9 +2,8 @@
 title: 🕶️ I Don’t Know You’re Here
 slug: i-dont-know-youre-here
 published_date: 2026-03-24T18:53:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: How I disable all the metrics on Bear Blog.
 ---

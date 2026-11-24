@@ -3,9 +3,8 @@ title: 🍞 No Knead Focaccia
 slug: no-knead-focaccia
 alias: 2025/05/22/no-knead-focaccia
 published_date: 2025-05-22T20:15:00+00:00
-tags: words
 publish: true
-make_discoverable: false
+discoverable: true
 is_page: false
 meta_description: An easy way to make delicious bread.
 ---

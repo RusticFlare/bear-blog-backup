@@ -2,8 +2,8 @@
 title: ✍️ Words
 slug: words
 published_date: 2026-01-12T20:32:00+00:00
-publish: true
-make_discoverable: false
+publish: false
+discoverable: false
 is_page: true
 meta_description: Words by James Baker
 class_name: words

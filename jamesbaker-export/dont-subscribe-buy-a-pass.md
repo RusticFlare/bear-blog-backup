@@ -1,10 +1,9 @@
 ---
 title: 📺 Don’t Subscribe; Buy a Pass
 slug: dont-subscribe-buy-a-pass
-published_date: 2026-05-02T21:25:02.334481+00:00
-tags: words
+published_date: 2026-05-02T21:25:00+00:00
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 ---
 

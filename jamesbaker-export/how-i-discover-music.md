@@ -2,9 +2,8 @@
 title: 🎧 How I Discover Music
 slug: how-i-discover-music
 published_date: 2026-02-01T00:28:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: The ways I find new music to listen to.
 ---
@@ -59,4 +58,4 @@ I have one massive playlist where I chuck in any song I like. If I just want mus
 
 If you find yourself chatting to someone about music, ask what they’re listening to, or if they’re going to any gigs soon. While sharing a room with a Canadian guy in a Buddhist temple in South Korea, he introduced me to **Heaven Shall Burn**.
 
-If you’ve read this and thought of any bands I’d like, drop me an [email](/contact/).
+If you’ve read this and thought of any bands I’d like, <a href="mailto:&#x68;&#x65;&#x6C;&#x6C;&#x6F;&#x40;&#x6A;&#x61;&#x6D;&#x65;&#x73;&#x62;&#x61;&#x6B;&#x65;&#x72;&#x2E;&#x75;&#x6B;?subject=re:%20{{ post_title }}">drop me an email</a>.

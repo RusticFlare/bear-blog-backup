@@ -3,7 +3,7 @@ title: 🪷 Garden
 slug: garden
 published_date: 2026-01-18T10:47:00+00:00
 publish: true
-make_discoverable: false
+discoverable: false
 is_page: true
 meta_description: A page of pages.
 class_name: garden
@@ -26,4 +26,5 @@ _<q>A blog is a garden, forever a work in progress.</q>_ – [eternal constellat
 
 <ul class="blog-posts">
 <li><a href="/gigs-ive-been-to/">🎸 Gigs I’ve Been To</a></li>
+<li><a href="/running/">🏃‍♂️‍➡️ Running</a></li>
 </ul>

@@ -2,9 +2,8 @@
 title: 📸 Camp Snap Pro Filters
 slug: camp-snap-pro-filters
 published_date: 2026-03-02T22:14:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: Building my own Camp Snap Pro filter.
 ---

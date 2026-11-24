@@ -3,7 +3,7 @@ title: ⌚️ Now
 slug: now
 published_date: 2026-01-03T20:10:00+00:00
 publish: true
-make_discoverable: false
+discoverable: false
 is_page: true
 meta_description: What I’m up to
 ---

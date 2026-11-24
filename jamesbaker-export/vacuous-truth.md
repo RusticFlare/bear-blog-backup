@@ -2,9 +2,8 @@
 title: 🕳️ Vacuous Truth
 slug: vacuous-truth
 published_date: 2026-01-29T19:27:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: Why I’ve won every marathon I’ve ever run.
 meta_image: https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/og-image-vacuous-truth.webp

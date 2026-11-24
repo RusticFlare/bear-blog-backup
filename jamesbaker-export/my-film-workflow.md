@@ -3,9 +3,8 @@ title: 🎞️ My Film Workflow
 slug: my-film-workflow
 alias: 2025/07/23/my-film-workflow
 published_date: 2025-07-23T07:00:00+00:00
-tags: words
 publish: true
-make_discoverable: false
+discoverable: true
 is_page: false
 meta_description: What I do with a roll of film after I’ve finished taking pictures.
 ---

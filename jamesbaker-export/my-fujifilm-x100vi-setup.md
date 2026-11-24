@@ -2,9 +2,8 @@
 title: ⚙️ My Fujifilm X100VI Setup
 slug: my-fujifilm-x100vi-setup
 published_date: 2026-03-26T21:07:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: Some recipes and a button layout.
 ---
