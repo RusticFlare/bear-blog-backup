@@ -2,9 +2,8 @@
 title: ⚽️ Bear Blog 2026 FIFA World Cup Fantasy League
 slug: bear-blog-2026-fifa-world-cup-fantasy-league
 published_date: 2026-06-09T13:02:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 ---
 
@@ -20,7 +19,7 @@ I’ve also created a Bear Blog Bracket Challenge (where you predict the results
 
 [https://play.fifa.com/bracket-predictor/join-league/2A55684E](tab:https://play.fifa.com/bracket-predictor/join-league/2A55684E)
 
-If you decide to join, please [send me an email](/contact/) with your team name and a link to your Bear Blog so I can add you to the table below. 
+If you decide to join, please <a href="mailto:&#x68;&#x65;&#x6C;&#x6C;&#x6F;&#x40;&#x6A;&#x61;&#x6D;&#x65;&#x73;&#x62;&#x61;&#x6B;&#x65;&#x72;&#x2E;&#x75;&#x6B;?subject=re:%20{{ post_title }}">send me an email</a> with your team name and a link to your Bear Blog so I can add you to the table below. 
 
 | Bear Blog | Team |
 | --- | --- |

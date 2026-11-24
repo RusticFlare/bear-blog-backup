@@ -3,9 +3,8 @@ title: 📸 My Digital Workflow
 slug: my-digital-workflow
 alias: 2025/08/01/my-digital-workflow
 published_date: 2025-08-01T20:10:00+00:00
-tags: words
 publish: true
-make_discoverable: false
+discoverable: true
 is_page: false
 meta_description: How I take, edit and store digital photos.
 ---

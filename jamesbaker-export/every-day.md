@@ -3,9 +3,8 @@ title: 📆 Every Day
 slug: every-day
 alias: everyday
 published_date: 2026-01-16T14:17:00+00:00
-tags: words
 publish: true
-make_discoverable: false
+discoverable: false
 is_page: false
 meta_description: Doing things every day.
 ---

@@ -1,13 +1,17 @@
 ---
 title: 🧑‍💻 Creative Coding
 slug: creative-coding
-published_date: 2026-04-09T17:01:12.090960+00:00
+published_date: 2026-04-09T17:01:00+00:00
 publish: true
-make_discoverable: false
+discoverable: false
 is_page: true
 ---
 
 # {{ post_title }}
+
+![111011](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/cc-111011.webp)
+
+![cc-101100](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/cc-101100.webp)
 
 ![](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/03c10801-f426-4287-9485-8297ea42368c_1_105_c.webp)
 

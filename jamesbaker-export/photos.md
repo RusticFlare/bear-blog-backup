@@ -3,11 +3,15 @@ title: 📸 Photos
 slug: photos
 published_date: 2026-04-08T18:51:00+00:00
 publish: true
-make_discoverable: false
+discoverable: false
 is_page: true
 ---
 
 # {{ post_title }}
+
+![Chaos and Order](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/000063.webp)
+
+![Krakus Mound](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/56afd94b-ec91-461f-9d09-c7cd9c888c52_1_201_a.webp)
 
 ![Jess in Beningbrough Hall](https://bear-images.sfo2.cdn.digitaloceanspaces.com/jamesbaker/f42eb1d8-301d-4101-943b-d76040c5e539_1_105_c.webp)
 

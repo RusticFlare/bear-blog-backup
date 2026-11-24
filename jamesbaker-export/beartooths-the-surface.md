@@ -2,9 +2,8 @@
 title: 💿 Beartooth’s *The Surface*
 slug: beartooths-the-surface
 published_date: 2026-07-07T21:35:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: My entry to the Bear Blog Carnival: An album that got you through a hard time
 ---

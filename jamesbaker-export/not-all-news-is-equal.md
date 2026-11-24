@@ -2,9 +2,8 @@
 title: 🗞️ Not All News Is Equal
 slug: not-all-news-is-equal
 published_date: 2026-02-18T21:54:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: Imagine checking the news and seeing “Nothing interesting today.”
 ---

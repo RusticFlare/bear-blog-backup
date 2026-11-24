@@ -2,9 +2,8 @@
 title: 🧸 My Tiny Pixel Bear
 slug: my-tiny-pixel-bear
 published_date: 2026-03-04T21:09:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: I made a tiny pixel bear using a template by Sylvia (A parenthetical departure).
 ---

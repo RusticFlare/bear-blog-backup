@@ -1,10 +1,10 @@
 ---
 title: Pixel 2
 slug: pixel-2
-published_date: 2026-03-06T20:04:29.027111+00:00
+published_date: 2026-03-06T20:04:00+00:00
 tags: images
-publish: true
-make_discoverable: false
+publish: false
+discoverable: false
 is_page: false
 ---
 

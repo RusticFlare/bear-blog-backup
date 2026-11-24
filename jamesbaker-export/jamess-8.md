@@ -2,9 +2,8 @@
 title: 💿 James’s 8
 slug: jamess-8
 published_date: 2026-04-05T09:15:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 meta_description: My Mum found my first mixtape.
 ---

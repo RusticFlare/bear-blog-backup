@@ -3,8 +3,8 @@ title: Pixel Bear Image
 slug: pixel-bear-image
 published_date: 2026-03-04T20:23:00+00:00
 tags: images
-publish: true
-make_discoverable: false
+publish: false
+discoverable: false
 is_page: false
 ---
 

@@ -2,9 +2,8 @@
 title: 📚 Why I Loved *The Stormlight Archive*
 slug: why-i-loved-the-stormlight-archive
 published_date: 2026-04-09T20:06:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 ---
 

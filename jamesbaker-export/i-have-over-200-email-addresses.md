@@ -2,9 +2,8 @@
 title: 📧 I have over 200 email addresses
 slug: i-have-over-200-email-addresses
 published_date: 2026-05-20T11:25:00+00:00
-tags: words
 publish: true
-make_discoverable: true
+discoverable: true
 is_page: false
 ---
 
@@ -18,7 +17,7 @@ The new primary email address gave my inbox a fresh start.
   
 Now, if I start getting any spam, I can deactivate the offending email address. Problem solved!  
   
-I also started using [Kill The Newsletter](https://kill-the-newsletter.com/) for any mailing lists I subscribed to. This converts the emails into an RSS feed.
+I also started using [Kill The Newsletter](tab:https://kill-the-newsletter.com/) for any mailing lists I subscribed to. This converts the emails into an RSS feed.
 
 Changing everything over from my old account took a few evenings, and it’s been absolutely worth it.
   
