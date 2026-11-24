@@ -23,9 +23,8 @@ directives:
     </a>
     </p>
     
-    [Get in touch](/contact/) | [Follow a feed](/feeds/)
-    
-    <script src="https://cdn.jsdelivr.net/gh/robertbirming/bear-plugins/gallery-lightbox.js"></script>
+    [Contact](/contact/) | [Subscribe](tab:https://subscribeopenly.net/subscribe/?url=https://jamesbaker.uk/feed/)
+
 advanced-settings:
   collect-analytics: false
   date-format: Y-m-d
